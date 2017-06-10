@@ -1,0 +1,30 @@
+{
+	"menu_item": ["About", "Portfolio", "Contacts"],
+	"card_item": [
+		{
+			"icons": "message",
+			"title": "Lorem ipsum dolor",
+			"txt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, cum?",
+			"bg": "yellow"
+		},
+		{
+			"icons": "pencil",
+			"title": "Lorem ipsum dolor",
+			"txt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, cum?",
+			"bg": "red"
+		},
+		{
+			"icons": "tempor",
+			"title": "Lorem ipsum dolor",
+			"txt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, cum?",
+			"bg": "green"
+		},
+		{
+			"icons": "user",
+			"title": "Lorem ipsum dolor",
+			"txt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, cum?",
+			"bg": "pink"
+		}
+	]
+
+}
